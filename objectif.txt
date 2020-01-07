@@ -1,0 +1,5 @@
+Objectif: 
+1 comprendre le cours Devops 
+2 comprendre git & github 
+3 Apprendre un language de programmation (python ou C) 
+
